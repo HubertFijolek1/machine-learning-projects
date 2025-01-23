@@ -10,3 +10,4 @@ joblib
 nltk
 spacy
 opencv-python
+faker
