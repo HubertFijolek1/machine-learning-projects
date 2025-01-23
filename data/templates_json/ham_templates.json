@@ -1,0 +1,201 @@
+[
+    {
+        "subject": "Meeting Rescheduled to {time} on Monday",
+        "body": [
+            "Hi {name},",
+            "I would like to inform you that our meeting has been rescheduled to {time} on the upcoming Monday.",
+            "Let me know if this time works for you.",
+            "Best regards,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Request to Approve Documents by {deadline}",
+        "body": [
+            "Hey {name},",
+            "Could you please review and approve the documents by {deadline}?",
+            "If you have any questions, let me know.",
+            "Thank you and best,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Invitation to Workshop: {time} This Saturday",
+        "body": [
+            "Hi {name},",
+            "This Saturday at {time}, we're hosting a workshop at the company headquarters.",
+            "If you're interested, please let me know and sign up via the form.",
+            "Best,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Team Meeting for New Project",
+        "body": [
+            "Hello {name},",
+            "We're organizing a short meeting regarding the new project on Tuesday. The start time is {time}.",
+            "Please confirm your attendance.",
+            "Thanks,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Reminder About Presentation Before {deadline}",
+        "body": [
+            "Hey {name},",
+            "This is a reminder about the presentation we need to prepare before {deadline}.",
+            "If you have any questions, I'm available on chat.",
+            "Regards,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Project Status Update",
+        "body": [
+            "Hi {name},",
+            "I'm sending a brief update regarding the current stage of the project.",
+            "Please check the attachments and let me know your thoughts.",
+            "Thanks,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Invitation to Online Training",
+        "body": [
+            "Dear {name},",
+            "An online training session for the entire team is scheduled for Wednesday at {time}.",
+            "Please join using the link sent in the calendar invite.",
+            "Regards,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Setting Vacation Dates – Request for Information",
+        "body": [
+            "Hi {name},",
+            "Please provide the dates you plan to take your vacation so we can schedule the team's workload accordingly.",
+            "Let me know by {deadline}.",
+            "Best,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Confirmation of Document Delivery by {deadline}",
+        "body": [
+            "Hey {name},",
+            "Will you be able to deliver the required documents before {deadline}?",
+            "Please let me know if there are any delays.",
+            "Thanks,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Request for Feedback on New Project",
+        "body": [
+            "Dear {name},",
+            "I would like to hear your feedback on the new project's assumptions.",
+            "Please send your comments to my email by {deadline}.",
+            "Thank you in advance,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Team Building Event on Friday at {time}",
+        "body": [
+            "Hi {name},",
+            "This Friday at {time}, we're organizing a team-building event for the entire department.",
+            "Please let me know if you'll be attending.",
+            "Best,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Training Plan for New Employees",
+        "body": [
+            "Hello {name},",
+            "Attached is the preliminary training plan for new employees. Please review to ensure everything is in order.",
+            "We have until {deadline} to make any adjustments.",
+            "Thanks,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Coordination of Project Tasks",
+        "body": [
+            "Hi {name},",
+            "Please update me on your task assignments. Will you be able to complete them by {deadline}?",
+            "If anything is unclear, feel free to ask.",
+            "Regards,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Need to Verify Technical Specifications",
+        "body": [
+            "Hey {name},",
+            "I'm sending the new version of the technical specifications. Could you verify them by {deadline}?",
+            "Thanks in advance for your quick response.",
+            "Regards,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Invitation to Project Demo: {time} on Thursday",
+        "body": [
+            "Hi {name},",
+            "This Thursday at {time}, we'll be showcasing a demo of our new project.",
+            "I'd appreciate it if you could join and share your feedback.",
+            "Thanks,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Customer Satisfaction Survey Results",
+        "body": [
+            "Dear {name},",
+            "Attached are the results of the latest customer satisfaction survey.",
+            "Please review them before our discussion next week.",
+            "Thanks in advance,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Reporting System Errors",
+        "body": [
+            "Hi {name},",
+            "If you notice any errors in the system, please urgently report them on our internal portal.",
+            "We aim to resolve them before {deadline}.",
+            "Regards,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "New Security Procedures – Please Review",
+        "body": [
+            "Hey {name},",
+            "I'm sending the new IT security procedures. Please review and confirm by {deadline}.",
+            "If you have any questions, we're here to help.",
+            "Thanks,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Confirmation of Implementation Schedule",
+        "body": [
+            "Hello {name},",
+            "We're rolling out the new system this Sunday at {time}.",
+            "Let me know if you have any concerns before we proceed.",
+            "Best,",
+            "{sender_name}"
+        ]
+    },
+    {
+        "subject": "Request for Access to Project Resources",
+        "body": [
+            "Hi {name},",
+            "Could you grant me access to the project repository? I need it by {deadline}.",
+            "Thanks in advance,",
+            "{sender_name}"
+        ]
+    }
+]

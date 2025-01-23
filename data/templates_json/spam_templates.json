@@ -1,0 +1,214 @@
+[
+    {
+        "subject": "Congratulations! You've won a {item} for FREE",
+        "body": [
+            "Hello {name},",
+            "This is not a joke – you've been selected to win a {item}!",
+            "To claim your prize, click on the link: {url}",
+            "Remember, this offer is valid only until {expiry_date}.",
+            "Best regards,",
+            "The {company} Team"
+        ]
+    },
+    {
+        "subject": "Your bank account has been suspended!",
+        "body": [
+            "Dear {name},",
+            "We've detected suspicious activity in your account. To unlock it, visit {url}.",
+            "Enter the verification code: {code}.",
+            "If you do not take action by {expiry_date}, your account will be closed.",
+            "Sincerely,",
+            "Security Team at {company}"
+        ]
+    },
+    {
+        "subject": "Amazing Opportunity: Earn up to {discount} USD Daily!",
+        "body": [
+            "Hi {name},",
+            "Did you know you can earn up to {discount} USD daily by working from home?",
+            "Click {url} to find out how easily you can join the program.",
+            "Don't wait, offer valid until {expiry_date}.",
+            "Regards,",
+            "The {company} Team"
+        ]
+    },
+    {
+        "subject": "Buy Now! {discount}% Discount on All Products",
+        "body": [
+            "Hi {name},",
+            "Don't miss out on our exclusive offer! {discount}% discount on all products in our store.",
+            "Visit {url} and use promo code: {code}.",
+            "Promotion ends on {expiry_date}.",
+            "Best,",
+            "{company} Sales Team"
+        ]
+    },
+    {
+        "subject": "Instant Capital Boost!",
+        "body": [
+            "Dear {name},",
+            "Want to quickly boost your capital? Discover our new investment system at {url}.",
+            "Invest and watch your profits grow – we have a special offer for new clients until {expiry_date}.",
+            "We guarantee 100% satisfaction.",
+            "The {company} Team"
+        ]
+    },
+    {
+        "subject": "Important: Your Insurance is Expiring Soon!",
+        "body": [
+            "Hello {name},",
+            "We inform you that your insurance policy will expire on {expiry_date}.",
+            "Renew it now at {url} to maintain your coverage.",
+            "Special discount of {discount}% just for you!",
+            "Sincerely,",
+            "Customer Service {company}"
+        ]
+    },
+    {
+        "subject": "Recover Your Password in Seconds",
+        "body": [
+            "Dear {name},",
+            "We've received a password reset request.",
+            "Click here: {url} to set a new password.",
+            "If this wasn't you, ignore this message – your account will be locked by {expiry_date}.",
+            "Help Team {company}"
+        ]
+    },
+    {
+        "subject": "Online Garage Sale: Up to {discount}% Off!",
+        "body": [
+            "Hi {name},",
+            "Our special online garage sale starts today! Find amazing deals – up to {discount}% off!",
+            "Click {url} to discover what you can buy.",
+            "Offer valid until {expiry_date}.",
+            "Regards,",
+            "Sales Department {company}"
+        ]
+    },
+    {
+        "subject": "Loyalty Reward – {item} Awaits You!",
+        "body": [
+            "Dear {name},",
+            "We appreciate your loyalty in our program. We've prepared a {item} as a reward for you.",
+            "Simply click {url} and confirm your receipt by {expiry_date}.",
+            "Congratulations and thank you,",
+            "{company}"
+        ]
+    },
+    {
+        "subject": "Golden Deal: Buy {item} at a Promotional Price!",
+        "body": [
+            "Hello {name},",
+            "We have an exclusive offer for you to purchase {item} at a {discount}% lower price.",
+            "Visit {url} and place your order before {expiry_date}.",
+            "Limited stock available!",
+            "The {company} Team"
+        ]
+    },
+    {
+        "subject": "Blocked Funds? Get a Quick Refund!",
+        "body": [
+            "Hi {name},",
+            "Have blocked funds in your bank? We offer assistance in retrieving your money.",
+            "Fill out the form at {url}, and we'll take care of the rest. Case code: {code}.",
+            "Offer valid until {expiry_date}.",
+            "Regards,",
+            "{company} – Solutions Center"
+        ]
+    },
+    {
+        "subject": "Today Only! Free Shipping + {discount}% Discount",
+        "body": [
+            "Dear {name},",
+            "Be sure to take advantage of free shipping and an additional {discount}% discount.",
+            "Click on {url} and order now before the promotion ends.",
+            "Save even more until {expiry_date}!",
+            "Best wishes,",
+            "{company} Online Store"
+        ]
+    },
+    {
+        "subject": "Get a Customized Diet Plan Tailored to Your Needs!",
+        "body": [
+            "Hello {name},",
+            "We invite you to take advantage of a personalized nutrition plan.",
+            "Fill out a short questionnaire at {url} and receive your plan by {expiry_date}.",
+            "Exclusive {discount}% discount for selected individuals.",
+            "The {company} Team"
+        ]
+    },
+    {
+        "subject": "Your Credit Card Limit Has Been Increased!",
+        "body": [
+            "Hi {name},",
+            "Great news – your credit card limit has been increased!",
+            "To activate it, simply confirm your details at {url} by {expiry_date}.",
+            "Activation code: {code}",
+            "Warm regards,",
+            "Finance Department {company}"
+        ]
+    },
+    {
+        "subject": "Acquire New Skills for Only {discount} USD!",
+        "body": [
+            "Dear {name},",
+            "Only until {expiry_date}, you can purchase our online training package for just {discount} USD.",
+            "Click {url} and advance your career to the next level!",
+            "Limited seats available.",
+            "Sincerely,",
+            "{company} Development Academy"
+        ]
+    },
+    {
+        "subject": "Your Transfer Has Been Halted!",
+        "body": [
+            "Hello {name},",
+            "We've been informed that the transfer to your account has been halted due to incorrect details.",
+            "Verify your profile by {expiry_date} on the website {url}, verification code: {code}.",
+            "Security Department {company}"
+        ]
+    },
+    {
+        "subject": "Lower Your Loan Rate by {discount}% – Find Out How!",
+        "body": [
+            "Dear {name},",
+            "You can lower your loan rate by up to {discount}%.",
+            "Visit {url} and check the details before {expiry_date}.",
+            "Hurry – limited offer!",
+            "Regards,",
+            "Financial Experts {company}"
+        ]
+    },
+    {
+        "subject": "Exclusive Membership Card Awaits!",
+        "body": [
+            "Dear {name},",
+            "You've been selected to receive an exclusive {company} membership card.",
+            "Click the link: {url} to activate the offer by {expiry_date}.",
+            "Acceptance code: {code}.",
+            "Sincerely,",
+            "Customer Service {company}"
+        ]
+    },
+    {
+        "subject": "Special Bonus for New Users – {item} as a Gift",
+        "body": [
+            "Hi {name},",
+            "Register today and receive a {item} as a gift.",
+            "Take advantage of the link: {url}, valid until {expiry_date}.",
+            "Limited number of rewards!",
+            "Regards,",
+            "The {company} Team"
+        ]
+    },
+    {
+        "subject": "Increase Your Income Within 24 Hours!",
+        "body": [
+            "Hello {name},",
+            "Tired of low earnings? With us, you can increase your income within 24 hours.",
+            "Sign up at {url} and use code {code} before {expiry_date}.",
+            "We guarantee success!",
+            "The {company} Team"
+        ]
+    }
+]
